@@ -1,4 +1,4 @@
-# Burp WP
+# Burp WP admin
 
 ![Burp WP](images/logo.svg)
 
